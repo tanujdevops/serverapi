@@ -83,5 +83,9 @@ Clone the repository.
 Open the project in your preferred IDE.
 Spin up your MongoDB database.
 Configure `application.properties`.
+Implement,
+```
+mvn clean install
+```
 Run the application.
 Use an HTTP client like Postman to send requests to the API.
