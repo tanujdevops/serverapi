@@ -10,6 +10,9 @@ Request Parameters
 id (optional) - The ID of the server to return.
 Example Request
 ```
+GET /servers
+```
+```
 GET /servers?id=123
 ```
 
